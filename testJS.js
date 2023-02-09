@@ -1,5 +1,5 @@
 var http = require("http");
-
+//http server
 http
   .createServer(function (request, response) {
     // Send the HTTP header
