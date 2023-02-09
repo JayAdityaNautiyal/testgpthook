@@ -1,1 +1,1 @@
-figured the error
+connected db
