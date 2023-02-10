@@ -2,7 +2,6 @@ var http = require("http");
 //http server
 http
   .createServer(function (request, response) {
-    // Content Type: text/plain
     response.writeHead(200, { "Content-Type": "text/plain" });
     response.end("refactored code again and again 3\n");
   })
